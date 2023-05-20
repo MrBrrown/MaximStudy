@@ -1,0 +1,15 @@
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/bin/Debug/net7.0/MaximStudy
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/bin/Debug/net7.0/MaximStudy.deps.json
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/bin/Debug/net7.0/MaximStudy.runtimeconfig.json
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/bin/Debug/net7.0/MaximStudy.dll
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/bin/Debug/net7.0/MaximStudy.pdb
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/MaximStudy.csproj.AssemblyReference.cache
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/MaximStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/MaximStudy.AssemblyInfoInputs.cache
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/MaximStudy.AssemblyInfo.cs
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/MaximStudy.csproj.CoreCompileInputs.cache
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/MaximStudy.dll
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/refint/MaximStudy.dll
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/MaximStudy.pdb
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/MaximStudy.genruntimeconfig.cache
+/Users/artemgusev/Projects/MaximStudy/MaximStudy/obj/Debug/net7.0/ref/MaximStudy.dll
